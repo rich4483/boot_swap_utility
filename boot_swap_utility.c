@@ -16,7 +16,7 @@
 BYTE Ve_y_EraseStatus;
 BYTE Ve_y_WriteStatus;
 
-void maink(void)
+void main(void)
 {
     WORD Le_i_Index;
     LONGWORD Le_g_Length;
