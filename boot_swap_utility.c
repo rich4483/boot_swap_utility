@@ -1,6 +1,6 @@
 /*
- * Name:
- * Author:
+ * Name:        bcm_rpgm.c
+ * Author:      Schupbach
  *
  * Description:
  *     "Main" for creation of reprogramming build.
